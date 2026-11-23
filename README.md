@@ -1,4 +1,4 @@
-Chart-to-Table with Weak Supervision
+# Chart-to-Table with Weak Supervision
 
 An IE643 course project exploring how to automatically extract structured tables from visual charts using deep learning and weak supervision.
 
